@@ -1,7 +1,7 @@
-venv/
 __pycache__/
-*.csv
-*.png
-*.pkl
+*.pyc
 *.log
 .DS_Store
+.env
+.vscode/
+.idea/
